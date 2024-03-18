@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ANURAG - Resume</title>
+</head>
+<body>
+
+    <header>
+        <h1>Resume</h1>
+    </header>
+
+    <header>
+        <img src="img/linkedin.jpg" alt="my profile" height="200px" class="profile-img">
+        <h1>ANURAG KATURE</h1>
+        <p class="myself">I am an enthusiastic BTech student majoring in Artificial Intelligence, driven by a passion for technology. Eager to embark on my professional journey, I am excited about the prospects in the tech industry. My aim is to leverage my skills in a dynamic company that values innovation, teamwork, and continuous learning. Committed to expanding my horizons, I am determined to make a meaningful impact in the ever-evolving field of technology. Let's connect and explore opportunities together!</p>
+    </header>
+
+  <section>
+      <div>
+          <h2>Location</h2>
+          <p>Nagpur, Maharashtra</p>
+        </div>
+    </div>
+
+    <hr>
+    
+    <div class="education">
+        <h2>Education</h2>
+        <ul>
+          <li>
+             <h3>Degree in Artificial Intelligence</h3>
+            <p>FROM: Priyadarshini J. L. College Of Engineering ,RTMNU(2026)</p>
+          </li>
+          <li>
+            <h3>HSC</h3>
+            <p>FROM: Edunexxt International School and JR Collage Mandhal</p>
+            <p>percentage: 80.17%</p>
+          </li>
+          <li>
+            <h3>SSC</h3>
+            <p>FROM: Mukundaraj Swami Madhyamik Vidyalaya Kujba</p>
+            <p>percentage:72.40%</p>
+          </li>
+        </ul>
+    </div>
+
+    <hr>
+    
+    <div class="experience">
+        <h2>Work Experience</h2>
+        <h3>Web Developer Intern</h3>
+        <ul>
+            <li>Oasis InfoTech, Dec 23 - Jan 24</li>
+        </ul>
+    </div>
+    <hr>
+    
+    <div class="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>HTML, CSS, </li>
+            <li>Responsive Web Design</li>
+            <li>C,Java</li>
+        </ul>
+    </div>
+    <hr>
+    <div class="info">
+      <div>
+        <h2>Contact Information</h2>
+        <p>Email: anuragkature799@gmail.com</p>
+        <p>Phone: 9834348910</p>
+        <p>LinkedIn: linkedin.com/in/ahttps://in.linkedin.com/in/anurag-kature-a258b42a7</p>
+        <p>GitHub: https://github.com/anuragkature</p>
+      </div>
+</section>
+
+  <footer>
+    &copy; 2024 ANURAG. All rights reserved.
+  </footer>
+
+</body>
+</html>
